@@ -1,0 +1,2 @@
+#include "MessageViewWidget.h"
+
